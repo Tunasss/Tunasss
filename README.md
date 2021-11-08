@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tunasss
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
