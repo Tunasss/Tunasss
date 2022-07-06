@@ -12,8 +12,6 @@
 
 <kbd>▪️</kbd>🖥️ Currently Learning C++, Python etc....🍌
 
-<kbd>▪️</kbd>🔭 I'm collaborating in more private or public repositories and organizations
-
 <kbd>▪️</kbd>🗣️ I know English, Vietnam and C++ Languages
 
 <kbd>▪️</kbd>🎂 This Noob Was Borned in 26/08/2006
