@@ -6,7 +6,7 @@
  
 <kbd>▪️</kbd>🏷️ I'm Trần Anh Tuấn 
 
-<kbd>▪️</kbd>🎂 Email: trananhtuan0826@gmail.con
+<kbd>▪️</kbd>📨 Email: trananhtuan0826@gmail.con
 
 <kbd>▪️</kbd>🏘️ Da Lat, Lam Dong, VN
 
